@@ -33,9 +33,8 @@
 <h3>Instrução de Uso</h3>
 <p>No Terminal/Console:</p>
 <ol>
-	<li>Faça um clone do projeto na sua máquina: <code>git clone git@github.com:cami-la/credit-application-system.git</code></li>
-	<li>Entre na pasta raiz do projeto: <code>cd </code></li> 
-	<li>Execute o comando: <code>./gradlew bootrun</code></li>
+	<li>Faça um clone do projeto na sua máquina<li>
+	<li>Entre na pasta raiz do projeto</li> 
 </ol>
 <h6>** Visando facilitar a demostração da aplicação, recomendo instalar apenas o IntelliJ IDEA e executar o projeto através da IDE **</h6>
 
