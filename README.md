@@ -51,7 +51,7 @@
 <h3>Contribuindo</h3>
 
 Este repositório foi criado para fins de estudo, e demonstração do conhecimento aprendido.<br>
-Agradeço a minha instrutra Camila Cavalcante que propos esse desafio, espero que ele te ajude de alguma forma, ficarei feliz em saber. Caso você conheça alguém que se identifique com o conteúdo, não
+Agradeço a minha instrutora Camila Cavalcante que propos esse desafio, espero que ele te ajude de alguma forma, ficarei feliz em saber. Caso você conheça alguém que se identifique com o conteúdo, não
 deixe de compatilhar.
 
 Se possível:
