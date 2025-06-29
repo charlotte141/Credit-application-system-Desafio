@@ -33,7 +33,7 @@
 <h3>Instrução de Uso</h3>
 <p>No Terminal/Console:</p>
 <ol>
-	<li>Faça um clone do projeto na sua máquina<li>
+	<li>Faça um clone do projeto na sua máquina</li>
 	<li>Entre na pasta raiz do projeto</li> 
 </ol>
 <h6>** Visando facilitar a demostração da aplicação, recomendo instalar apenas o IntelliJ IDEA e executar o projeto através da IDE **</h6>
